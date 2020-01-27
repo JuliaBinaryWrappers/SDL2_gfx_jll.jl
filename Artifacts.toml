@@ -1,0 +1,113 @@
+[[SDL2_gfx]]
+arch = "i686"
+git-tree-sha1 = "df109b7d3776965193747a9117999ce729c3ea97"
+libc = "glibc"
+os = "linux"
+
+    [[SDL2_gfx.download]]
+    sha256 = "d918f3d38b74b3b829b45cd93d93c745521911f116a1fc7f743c095bec1db8c0"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_gfx_jll.jl/releases/download/SDL2_gfx-v1.0.3+0/SDL2_gfx.v1.0.3.i686-linux-gnu.tar.gz"
+[[SDL2_gfx]]
+arch = "i686"
+git-tree-sha1 = "2724dc77f7cf3952f2ba77b074d990cd58b80698"
+libc = "musl"
+os = "linux"
+
+    [[SDL2_gfx.download]]
+    sha256 = "bc3037a1b9434952db73194894eb8736d1f017fa0ac1e222c7cc2cab906bd2be"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_gfx_jll.jl/releases/download/SDL2_gfx-v1.0.3+0/SDL2_gfx.v1.0.3.i686-linux-musl.tar.gz"
+[[SDL2_gfx]]
+arch = "x86_64"
+git-tree-sha1 = "873cdd93a9edad6f77b98abe2a499f839c31191b"
+os = "macos"
+
+    [[SDL2_gfx.download]]
+    sha256 = "ab185ff512e8d7496a1f0db051b0fb4f11eca0cb8e8322138302e4d215afcd89"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_gfx_jll.jl/releases/download/SDL2_gfx-v1.0.3+0/SDL2_gfx.v1.0.3.x86_64-apple-darwin14.tar.gz"
+[[SDL2_gfx]]
+arch = "powerpc64le"
+git-tree-sha1 = "78c42a355eb080235c8683a84cff859272838938"
+libc = "glibc"
+os = "linux"
+
+    [[SDL2_gfx.download]]
+    sha256 = "f10fdcfb7a2e5853c2132b551bdd996ec854628ba07f4a07764d4641c2decc34"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_gfx_jll.jl/releases/download/SDL2_gfx-v1.0.3+0/SDL2_gfx.v1.0.3.powerpc64le-linux-gnu.tar.gz"
+[[SDL2_gfx]]
+arch = "aarch64"
+git-tree-sha1 = "6f9d409b4649aadbe678c9513330f8d444a824d2"
+libc = "glibc"
+os = "linux"
+
+    [[SDL2_gfx.download]]
+    sha256 = "ccc668951b2b0c44f29816ef50fe1f1b1f311259567c36a6c82273c795c5ef68"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_gfx_jll.jl/releases/download/SDL2_gfx-v1.0.3+0/SDL2_gfx.v1.0.3.aarch64-linux-gnu.tar.gz"
+[[SDL2_gfx]]
+arch = "x86_64"
+git-tree-sha1 = "49b39686b83af9289b9ea91b1e28b4e025405dab"
+libc = "musl"
+os = "linux"
+
+    [[SDL2_gfx.download]]
+    sha256 = "0f296e887a5504703ad69313b05a731b1ae0ffed53ad8231e88898e1e7d4ad3b"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_gfx_jll.jl/releases/download/SDL2_gfx-v1.0.3+0/SDL2_gfx.v1.0.3.x86_64-linux-musl.tar.gz"
+[[SDL2_gfx]]
+arch = "aarch64"
+git-tree-sha1 = "04b9f0e9a5da1e48f30407d50a55b06ca8e0db05"
+libc = "musl"
+os = "linux"
+
+    [[SDL2_gfx.download]]
+    sha256 = "5b512486353e79c8299bf2026d8a06eb969787cd920ce28c2fd30c062b3a6fcf"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_gfx_jll.jl/releases/download/SDL2_gfx-v1.0.3+0/SDL2_gfx.v1.0.3.aarch64-linux-musl.tar.gz"
+[[SDL2_gfx]]
+arch = "armv7l"
+git-tree-sha1 = "18a7b94e0c546182e4f27c57f474c3ba5da947b4"
+libc = "musl"
+os = "linux"
+
+    [[SDL2_gfx.download]]
+    sha256 = "7b60d463e9b66de0d9bae86841fbc7bcb9084078a142a8caa2839cd5498adb31"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_gfx_jll.jl/releases/download/SDL2_gfx-v1.0.3+0/SDL2_gfx.v1.0.3.arm-linux-musleabihf.tar.gz"
+[[SDL2_gfx]]
+arch = "i686"
+git-tree-sha1 = "ee3fd371ff55186d266eb2e8a461ee5d9e45bd63"
+os = "windows"
+
+    [[SDL2_gfx.download]]
+    sha256 = "f3c6089f3bfc866ee682c2a6a9b3aa2edb93ab116b9889c5929c483c648c18e5"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_gfx_jll.jl/releases/download/SDL2_gfx-v1.0.3+0/SDL2_gfx.v1.0.3.i686-w64-mingw32.tar.gz"
+[[SDL2_gfx]]
+arch = "x86_64"
+git-tree-sha1 = "32d7f5bddcd1cc7e486c70292f89dfb257ba4d2f"
+os = "freebsd"
+
+    [[SDL2_gfx.download]]
+    sha256 = "ac6e4a100bb9414bb5d941262deb49df33ebf64ce49083a8579a047ff20d5204"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_gfx_jll.jl/releases/download/SDL2_gfx-v1.0.3+0/SDL2_gfx.v1.0.3.x86_64-unknown-freebsd11.1.tar.gz"
+[[SDL2_gfx]]
+arch = "armv7l"
+git-tree-sha1 = "4a954f0629d46f2879c71b724594dd32771cf8b8"
+libc = "glibc"
+os = "linux"
+
+    [[SDL2_gfx.download]]
+    sha256 = "04d57636d3bbb149770c42a89cf617638399c4e8381cf26ce5182efdea370563"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_gfx_jll.jl/releases/download/SDL2_gfx-v1.0.3+0/SDL2_gfx.v1.0.3.arm-linux-gnueabihf.tar.gz"
+[[SDL2_gfx]]
+arch = "x86_64"
+git-tree-sha1 = "a8d75bfddb53265c2e6905e1cba14ec17b8827c8"
+libc = "glibc"
+os = "linux"
+
+    [[SDL2_gfx.download]]
+    sha256 = "5878c1a30e163d1e263d7d2bf1e1726bf92149f1e03cc23c5c3944bb427893fa"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_gfx_jll.jl/releases/download/SDL2_gfx-v1.0.3+0/SDL2_gfx.v1.0.3.x86_64-linux-gnu.tar.gz"
+[[SDL2_gfx]]
+arch = "x86_64"
+git-tree-sha1 = "295b75e2dfb5670d5d3166ef2743a50c99c31e3f"
+os = "windows"
+
+    [[SDL2_gfx.download]]
+    sha256 = "bc6de03df4afacd1cbce1c06d489521d0a9ffc4269a00c9fcce2eb0c712813b9"
+    url = "https://github.com/JuliaBinaryWrappers/SDL2_gfx_jll.jl/releases/download/SDL2_gfx-v1.0.3+0/SDL2_gfx.v1.0.3.x86_64-w64-mingw32.tar.gz"
